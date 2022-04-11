@@ -14,13 +14,13 @@ background-color: hsl(212,45%,89%);
     margin: auto;
     text-align: center;
     border-radius: 1rem;
-  background-color: hsl(0, 0%, 100%);}
-
-    .qr-code {
-        padding: 1rem;
+  background-color: hsl(0, 0%, 100%);
+  padding: 1rem;
         margin: 40%;
-        margin-top: 10%;
-    }
+        margin-top: 12%;
+        height: 400px;
+}       
+  
     .qr-code img {
         border-radius: .5rem;
         width: 100%;
