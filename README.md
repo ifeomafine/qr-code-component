@@ -31,7 +31,7 @@ Going to study more on MEDIA QUERY and the whole concept.
 
 ## Author
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ifeomafine)
-- Linkedln - (https://www.linkedln.com/in/ifeoma-fine-ukpabi-ba8069130/)
+- Linkedln - (https://www.linkedin.com/in/ifeoma-fine-ukpabi-ba8069130/)
 
 
 ## Acknowledgments
